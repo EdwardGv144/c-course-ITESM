@@ -13,9 +13,5 @@ This program copies the contents of a source file to a destination file while ap
 gcc main.c -o file_copy_xor
 ./file_copy_xor
 
-Source file name? input.bmp
-Destination file name? output.bmp
-
-Example:
 Source file name? lena.bmp
 Destination file name? lena_out.bmp
