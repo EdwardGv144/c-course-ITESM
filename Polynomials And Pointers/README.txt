@@ -19,7 +19,7 @@ Enter pairs:
 
 ## Build & Run
 ```bash
-gcc -Wall -Wextra -O2 -o poly main.c
+gcc polynomials_and_pointers.c -o poly
 ./poly
 
 ## Example:

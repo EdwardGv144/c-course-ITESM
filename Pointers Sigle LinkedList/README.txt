@@ -17,7 +17,7 @@ This program demonstrates pointer usage by implementing a basic singly linked li
 
 ## Build & Run
 ```bash
-gcc -Wall -Wextra -O2 -o list main.c
+gcc pointers_single_linkedlist.c -o list
 ./list
 
 Example at Terminal:

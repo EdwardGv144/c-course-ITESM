@@ -10,7 +10,7 @@ This program copies the contents of a source file to a destination file while ap
 
 ## Usage
 ```bash
-gcc main.c -o file_copy_xor
+gcc file_copy_xor.c -o file_copy_xor
 ./file_copy_xor
 
 Source file name? lena.bmp

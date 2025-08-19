@@ -11,7 +11,7 @@ This program demonstrates the use of the `do-while` loop in C.
 
 ## Build & Run
 ```bash
-gcc main.c -o average
+gcc average_do_while.c -o average
 ./average
 
 Example:
