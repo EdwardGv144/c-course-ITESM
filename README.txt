@@ -1,7 +1,6 @@
 # C Course — ITESM
 
-Practice programs from a university C course. Each program lives in its own folder with a `README.md` and `main.c`.
-
+Practice programs from a university C course. Each program lives in its own folder with a 'README.'
 ## Build
 Use any C compiler.
 
